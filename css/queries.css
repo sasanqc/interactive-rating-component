@@ -1,0 +1,59 @@
+@media screen and (max-width: 410px) {
+  .rating {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+  }
+  .heading-main {
+    font-size: 2.4rem;
+    line-height: 3rem;
+  }
+
+  .body {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+  }
+
+  .icon-container {
+    width: 4rem;
+    margin-bottom: 1.6rem;
+
+    height: 4rem;
+  }
+
+  .number {
+    width: 4.2rem;
+    height: 4.2rem;
+  }
+  .rating-numbers {
+    gap: 1.6rem;
+    margin-bottom: 2.4rem;
+  }
+  .btn {
+    padding: 1.2rem 0;
+  }
+
+  .rating-value {
+    padding: 0.4rem 1.2rem;
+    margin-bottom: 2.4rem;
+  }
+  .mb-15 {
+    margin-bottom: 1rem;
+  }
+  .mb-24 {
+    margin-bottom: 1.2rem;
+  }
+  .flip-card {
+    max-width: 32.7rem;
+    margin: 19.7rem auto;
+    height: 36rem;
+  }
+  .card-front {
+    padding: 2.4rem;
+  }
+  .card-back {
+    padding: 3.4rem 2.4rem;
+  }
+  .thank-you {
+    margin-bottom: 2.4rem;
+  }
+}
